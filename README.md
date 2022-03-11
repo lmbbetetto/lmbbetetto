@@ -1,4 +1,4 @@
-## Olá, eu sou o Leonardo Betetto, estudante de tecnologia!
+## Olá, eu sou o Leonardo Betetto, programador em formação!
 
 <div align="center">
   <a href="https://github.com/lmbbetetto">
