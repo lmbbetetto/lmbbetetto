@@ -1,4 +1,4 @@
-## Olá, meu nome é Leonardo Betetto, programador em formação!
+## Olá, meu nome é Leonardo Betetto, programador front-end!
 
 <div align="center">
   <a href="https://github.com/lmbbetetto">
