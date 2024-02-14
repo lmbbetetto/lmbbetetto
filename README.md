@@ -1,7 +1,7 @@
 ## Olá, meu nome é Leonardo Betetto, programador front-end!
 
 <div align="center">
-  <a href="https://github.com/AndreBetetto">
+  <a href="https://github.com/lmbbetetto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmbbetetto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmbbetetto&layout=compact&langs_count=16&theme=dark"/> 
 </div>
@@ -18,8 +18,12 @@
 <div> 
   <a href="https://instagram.com/_leomanoel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lmbbetetto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-betetto-50672b10b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+   
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreBetetto/AndreBetetto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreBetetto/AndreBetetto/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndreBetetto/AndreBetetto/output/github-contribution-grid-snake.svg">
+</picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+</div>
