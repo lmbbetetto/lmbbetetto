@@ -20,6 +20,6 @@
   <a href = "mailto:lmbbetetto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-betetto-50672b10b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/lmbbetetto/lmbbetetto/blob/output/github-contribution-grid-snake.svg)
+_generated with [Platane/snk](https://github.com/Platane/snk)_
  
 </div>
